@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to the Digital Realm of Avinash Tanwar 🚀
+# 💻 Welcome to My Coding Space 💻
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Innovation+Architect;Code+Craftsman;Tech+Enthusiast" alt="Typing SVG" />
 
