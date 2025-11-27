@@ -48,9 +48,9 @@ fun_fact: "I turn coffee into code ☕ → 💻"
 
 **Features that speak louder than words:**
 
-💬 **Real-Time Chat** - Instant messaging with typing indicators 💬, emoji reactions 😍, and that sweet feeling of "Delivered ✅"
+💬 **Real-Time Coding and Sharing** - Instant compliers with typing indicators 💬, emoji reactions and comments 😍, and that sweet feeling of sharing snippets
 
-🎥 **Crystal-Clear Video Calls** - 1-on-1 or group calls with screen sharing & recording. Face-to-face learning, anywhere 🌐
+🎥 **Snippets Sharing** - Share, Store ,Use your or others snippets from  anywhere 🌐 in just a min 
 
 ---
 
