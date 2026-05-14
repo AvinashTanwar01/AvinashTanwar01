@@ -46,7 +46,7 @@ const avinash: Developer = {
 
 Full-stack ICU risk prediction platform. Connects to a Python ML model via REST APIs for real-time mortality risk scoring — **< 1.5s response** across 50+ patient profiles.
 
-**[🔗 Live](https://portfolioavinash1.netlify.app/)**
+**[🔗 Live](https://portfolioavinash01.netlify.app/)**
 
 </td>
 <td width="50%">
@@ -56,7 +56,7 @@ Full-stack ICU risk prediction platform. Connects to a Python ML model via REST 
 
 Browser-based IDE supporting **10+ languages**, sandboxed execution, sub-2s run times, and 32 VS Code-inspired themes. Tracked **500+ execution events** in beta.
 
-**[🔗 Live](https://portfolioavinash1.netlify.app/)**
+**[🔗 Live](https://portfolioavinash01.netlify.app/)**
 
 </td>
 </tr>
@@ -68,7 +68,7 @@ Browser-based IDE supporting **10+ languages**, sandboxed execution, sub-2s run 
 
 Full-stack chat + video call platform shipped in **< 3 weeks** — instant messaging, typing indicators, group video calls with screen sharing, JWT auth, 32 UI themes.
 
-**[🔗 Live](https://portfolioavinash1.netlify.app/)**
+**[🔗 Live](https://portfolioavinash01.netlify.app/)**
 
 </td>
 <td width="50%">
@@ -78,7 +78,7 @@ Full-stack chat + video call platform shipped in **< 3 weeks** — instant messa
 
 AI interview simulator generating **5–10 tailored questions** per session across 10+ domains. Automated feedback cut evaluation time by **~30%** across 100+ sessions.
 
-**[🔗 Live](https://portfolioavinash1.netlify.app/)**
+**[🔗 Live](https://portfolioavinash01.netlify.app/)**
 
 </td>
 </tr>
