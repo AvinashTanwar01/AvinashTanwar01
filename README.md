@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-tanwar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioavinash1.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolioavinash01.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanwaravinash352/)
 [![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanwaravinash352@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashTanwar01)
